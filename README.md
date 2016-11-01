@@ -1,3 +1,3 @@
-# Sistema tuber
+# Sistema Tuber
 
-## Sitema para Proyecto 2016
+## Sistema para Proyecto 2016
